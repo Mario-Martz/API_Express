@@ -2,6 +2,12 @@
   "name": "api_express",
   "version": "1.0.0",
   "description": "Manipulacion de un archivo json usando express",
+  "keywords": [
+    "express",
+    "Node",
+    "JS",
+    "JavaScript"
+  ],
   "homepage": "https://github.com/Mario-Martz/API_Express#readme",
   "bugs": {
     "url": "https://github.com/Mario-Martz/API_Express/issues"
@@ -19,5 +25,6 @@
   },
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {}
 }
